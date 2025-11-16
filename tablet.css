@@ -1,0 +1,29 @@
+@media only screen and (max-width:1500px) {
+    nav{
+    width: 95%;    
+    }
+
+    .action{
+        width: 70vh;
+    }
+
+    .hero-cont{
+    padding-left:1vw ;
+    padding-right:1vw ;
+    height: 550px;
+    }
+
+    .hero-text{
+        height: 100%;
+    }
+
+
+    .hero-art img{
+        width: 500px;
+    } 
+
+    .ser-cards{
+        width: 100%;
+    }
+
+}

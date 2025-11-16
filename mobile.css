@@ -1,0 +1,117 @@
+@media only screen and (max-width:1000px) {
+
+    .hero {
+        height: 95Vh;
+    }
+
+    nav {
+        height: 23px;
+        padding: 0 20px 0 20px;
+    }
+
+    .action {
+        display: none;
+    }
+
+    .hamburger {
+        display: flex;
+        align-items: center;
+    }
+
+    .hero-cont {
+        flex-direction: column;
+        height: 75vh;
+
+    }
+
+    .hero-text {
+        width: 100%;
+        height: 450px;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .hero-text h1 {
+        font-size: 2.35em;
+
+    }
+
+    .hero-text p {
+        font-size: 1em;
+    }
+
+    .hero-art {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hero-art img {
+        width: 300px;
+    }
+
+    .s-head {
+        flex-direction: column;
+        justify-content: space-between;
+        height: 150px;
+        width: 100vw;
+    }
+
+    .s-head p {
+        width: auto;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .s-heading {
+        margin: auto;
+    }
+
+    .ser-cards {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .s-card {
+        flex-direction: column;
+        width: 70%;
+        min-width: 300px;
+        height: 350px;
+        justify-content: space-around;
+    }
+
+    .sc-img {
+        width: auto;
+    }
+
+    .sc-img p {
+        display: none;
+    }
+
+    .s-c-cont {
+        height: auto;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    .owp {
+        flex-direction: column;
+        padding: 0 10px;
+        text-align: center;
+    }
+
+    .owp p {
+        width: auto;
+    }
+
+    .owp h2 {
+        font-size: 36px;
+    }
+
+    .cap1{
+        display: none;
+    }
+
+}
