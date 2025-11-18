@@ -282,7 +282,7 @@ nav {
     background-color: #B9FF66;
     width: auto;
     padding: 0 60px;
-   min-height: 279px;
+    min-height: 279px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -316,4 +316,30 @@ nav {
 .cap1 p {
     font-size: 1.13em;
     margin: 30px;
-}    
+}
+
+.cap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F3F3F3;
+    box-shadow: #191A23 0 5px 0;
+    margin-bottom: 30px;
+    height: 160px;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    padding: 0 60px;
+}
+
+.cap-hd{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.cap-hd h1{
+    font-size: 60px;
+}
+.cap-hd h2{
+    font-size: 30px;
+}
