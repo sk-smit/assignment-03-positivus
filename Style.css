@@ -395,7 +395,7 @@ nav {
     height: 100px;
   }
 
-  button {
+ form button {
     width: 100%;
     padding: 12px;
     background-color: #1b1b1f;
@@ -406,6 +406,6 @@ nav {
     cursor: pointer;
   }
 
-  button:hover {
+  form button:hover {
     background-color: #333;
   }
