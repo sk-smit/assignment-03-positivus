@@ -25,4 +25,8 @@
         width: 100%;
     }
 
+    .fnav ul{
+        gap: 10px;
+    }
+
 }
